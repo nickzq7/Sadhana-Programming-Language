@@ -3,6 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0--experimental-orange.svg)](VERSION)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18846465.svg)](https://doi.org/10.5281/zenodo.18846465)
 
 > **"Where Meaning Precedes Structure, and Order Does Not Define Truth"**
 
