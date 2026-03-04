@@ -1640,7 +1640,7 @@ Sadhana is more than a programming language-it is a **philosophical framework** 
 5. Quality Check - Manish Kumar Parihar
 6. Study - Manish Kumar Parihar
 7. Framework Design - Manish Kumar Parihar
-8. Coder - AI(75%) + Online Reference (10%) + Manish Kumar Parihar (15%)
+8. Coder - Prompt Engineering(75%) + Online Reference (10%) + Manish Kumar Parihar (15%)
 ```
 
 
