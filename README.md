@@ -1633,14 +1633,14 @@ This is open source software. Use it anywhere, for anything, without asking perm
 Sadhana is more than a programming language-it is a **philosophical framework** for computation. By returning to the wisdom of ancient Indian linguistics while pushing the boundaries of modern code generation, we create a tool that thinks about software the way humans think about meaning: **holistically, relationally, and semantically**.
 
 ```
-**1. Idea - Manish Kumar Parihar**
-**2. Research - Manish Kumar Parihar**
-**3. Assembler - Manish Kumar Parihar**
-**4. Reasoning - Manish Kumar Parihar**
-**5. Quality Check - Manish Kumar Parihar**
-**6. Study - Manish Kumar Parihar**
-**7. Framework Design - Manish Kumar Parihar**
-**8. Coder - AI(75%) + Online Reference (10%) + Manish Kumar Parihar (15%)**
+1. Idea - Manish Kumar Parihar
+2. Research - Manish Kumar Parihar
+3. Assembler - Manish Kumar Parihar
+4. Reasoning - Manish Kumar Parihar
+5. Quality Check - Manish Kumar Parihar
+6. Study - Manish Kumar Parihar
+7. Framework Design - Manish Kumar Parihar
+8. Coder - AI(75%) + Online Reference (10%) + Manish Kumar Parihar (15%)
 ```
 
 
